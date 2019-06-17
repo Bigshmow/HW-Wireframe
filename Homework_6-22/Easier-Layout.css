@@ -1,4 +1,5 @@
 body {
+    color: #999999;
     background-color: #999999;
     text-align: center;
     }
@@ -30,19 +31,21 @@ section {
 }
 
 article {
+    color: white;
     background-color: #999999;
     padding: 25px;
     margin-top: 20px;
     margin-bottom: 20px;
-    border: 1px solid black;
 }
 
-h2 {
+h1 {
+    color: #999999;
     background-color: #eeeeee;
     padding: 10px;
 }
 
 p {
+    color: #999999;
     background-color: #eeeeee;
     padding: 10px;
 }
