@@ -1,2 +1,2 @@
 # HW-Wireframe
-This is the Homework Wireframe
+Wireframe and portfolio page HW
