@@ -2,6 +2,7 @@ body {
     color: #999999;
     background-color: #999999;
     text-align: center;
+    min-width: 618px;
     }
 
 header {
@@ -25,7 +26,7 @@ section {
     background-color: #eeeeee;
     height: 230px;
     padding: 30px;
-    width: 250px;
+    width: 700px;
     float: left;
     margin-left: 100px;
     margin-bottom: 15px;
@@ -54,8 +55,9 @@ p {
 aside {
     background-color: #eeeeee;
     widows: 250px;
-    float: left;
+    float: right;
     height: 230px;
+    width: 465px;
     padding: 30px;
     margin-left: 15px;
     margin-right: 100px;
